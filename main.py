@@ -4,7 +4,7 @@ os.system("cls" if os.name == "nt" else "clear")
 
 token = "authorization | user token only"
 hook = "https://canary.discord.com/api/webhooks/guild_id/webhook_token"
-guild = "serer_id"
+guild = "server_id"
 list = ["vanity1", "vanity2"]
 delay = 0
 
